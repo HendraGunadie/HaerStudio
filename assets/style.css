@@ -1,0 +1,51 @@
+.navbar-custom {
+    background-color: #3647c4;
+    font-family: "Pixelify Sans", serif;
+    box-shadow: 10px 10px 20px rgba(2, 2, 2, 3) !important; /* Bayangan custom */
+    color: white;
+}
+
+body {
+    font-family: "Pixelify Sans", serif !important;
+}
+
+
+.navbar-shadow {
+    box-shadow: 100px 100px 100px rgba(0, 0, 0, 1); /* Efek shadow */
+  }
+  
+
+.navbar-nav .nav-custom:hover {
+    color: #ff7a00 !important;
+}
+
+
+
+.carousel-custom {
+   
+    background: linear-gradient(to bottom,  #3647c4, #83A2FF);
+    font-family: "Pixelify Sans", serif;
+}
+
+.text-p-crl-custom {
+    color: white;
+    
+}
+
+.text-h1-crl-custom {
+    color: #ff7a00;
+}
+
+.text-h5-crl-custom {
+    color: #b0b0b0;
+}
+
+.btn-gradient {
+    background: linear-gradient(to right, #ff5733, #ffb300); /* Warna gradasi */
+    border: white !important; /* Hilangkan border default */
+    color: white; /* Warna teks */
+  }
+  
+  .btn-gradient:hover {
+    background: linear-gradient(to right, #ffb300, #ff5733); /* Efek hover */
+  }
