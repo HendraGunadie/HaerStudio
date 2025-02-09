@@ -1,20 +1,18 @@
 .navbar-custom {
     background-color: #3647c4;
     font-family: "Pixelify Sans", serif;
-    box-shadow: 10px 10px 20px rgba(2, 2, 2, 3) !important; /* Bayangan custom */
+ 
     color: white;
 }
 
 body {
     font-family: "Pixelify Sans", serif !important;
-      margin: 0 !important;
+    margin: 0 !important;
     padding: 0 !important;
 }
 
 
-.navbar-shadow {
-    box-shadow: 100px 100px 100px rgba(0, 0, 0, 1); /* Efek shadow */
-  }
+
   
 
 .navbar-nav .nav-custom:hover {
